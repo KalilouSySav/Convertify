@@ -1,4 +1,4 @@
-# Composant Vue.js : Historique des conversions
+# Historique des conversions
 
 ## Structure du composant
 
