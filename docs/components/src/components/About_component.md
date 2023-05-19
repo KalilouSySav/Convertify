@@ -1,4 +1,4 @@
-## À propos
+git init## À propos
 
 L'élément `<template>` contient le contenu du composant "À propos" de l'application de conversion d'unités de mesure. Ce composant fournit des informations sur l'application et son équipe de développement.
 
@@ -17,7 +17,7 @@ Le contenu de l'élément `<template>` est structuré comme suit :
 
 ### Utilisation
 
-Ce composant peut être utilisé dans l'application pour fournir des informations sur l'application, sa philosophie, et pour établir une connexion avec les utilisateurs en exprimant la gratitude de l'équipe de développement et en les encourageant à fournir des commentaires et des suggestions.
+Ce composant est utilisé dans l'application pour fournir des informations sur l'application, sa philosophie, et pour établir une connexion avec les utilisateurs en exprimant la gratitude de l'équipe de développement et en les encourageant à fournir des commentaires et des suggestions.
 
 ### Version
 
